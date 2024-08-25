@@ -1,0 +1,26 @@
+[
+	{
+		"file": "G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\Source\\DesertRacer\\DesertRacer.Build.cs",
+		"arguments": [
+			"G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\.vscode\\compileCommands_Default\\DesertRacer.1.rsp"
+		],
+		"directory": "G:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\Source\\DesertRacer\\DesertRacer.cpp",
+		"arguments": [
+			"G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\.vscode\\compileCommands_Default\\DesertRacer.1.rsp"
+		],
+		"directory": "G:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\Source\\DesertRacer\\DesertRacer.h",
+		"arguments": [
+			"G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\.vscode\\compileCommands_Default\\DesertRacer.1.rsp"
+		],
+		"directory": "G:\\Unreal\\UE_5.3\\Engine\\Source"
+	}
+]

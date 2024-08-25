@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "DesertRacerEditor Editor Win64 Development (DesertRacer)",
+            "compilerPath": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\.vscode\\compileCommands_DesertRacer.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "G:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "G:\\Unreal\\Unreal Projects Study\\2DGameDevTV\\DesertRacer\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
